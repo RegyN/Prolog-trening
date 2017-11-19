@@ -7,7 +7,6 @@ loves(mia, X) :- goodDancer(X).
 eats(jules, X) :- nutritious(X) ; tasty(X).
 
 % Dane do testu zadania
-
 tasty(banana).
 nutritious(steak).
 goodDancer(jules).
